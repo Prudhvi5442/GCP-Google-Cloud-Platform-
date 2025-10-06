@@ -76,3 +76,4 @@ gcloud config list
 ```
 
 ---
+![GCP](https://github.com/Prudhvi5442/GCP-Google-Cloud-Platform-/blob/5347e9b1aff3089a29bfbaa38b9c09f05fc46f38/images/Screenshot%202025-10-06%20131210.png)
