@@ -93,3 +93,8 @@ gcloud services enable compute.googleapis.com \
     cloudresourcemanager.googleapis.com \
     iamcredentials.googleapis.com
 ```
+![gcp-project-creation-photo](https://github.com/Prudhvi5442/GCP-Google-Cloud-Platform-/blob/1b304f3fe72efd31a8cfdbf5d00ddaffc7811310/images/Screenshot%202025-10-07%20171140.png)
+
+![budget-creation](https://github.com/Prudhvi5442/GCP-Google-Cloud-Platform-/blob/1b304f3fe72efd31a8cfdbf5d00ddaffc7811310/images/Screenshot%202025-10-07%20171726.png)
+
+![budget](https://github.com/Prudhvi5442/GCP-Google-Cloud-Platform-/blob/1b304f3fe72efd31a8cfdbf5d00ddaffc7811310/images/Screenshot%202025-10-07%20171745.png)
