@@ -8,3 +8,11 @@
 - Understanding GCP Console and Cloud Shell
 
 ---
+## Day-2: GCP Project Setup and Billing
+
+- Projects, billing accounts, and quotas
+- Creating and linking projects to billing
+- Budget alerts and cost visibility
+- Enabling essential APIs (Compute, Storage, etc.)
+
+---

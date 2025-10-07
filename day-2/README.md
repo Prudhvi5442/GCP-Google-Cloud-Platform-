@@ -43,7 +43,7 @@ Important points:
 1. Go to the GCP Console: https://console.cloud.google.com
 2. From the top bar, click on the project dropdown
 3. Click **New Project**
-4. Give it a name like `gcp-zero-to-hero`
+4. Give it a name like `GCP-Project`
 5. Select your billing account and create
 
 This is the project we will use for all future labs.
