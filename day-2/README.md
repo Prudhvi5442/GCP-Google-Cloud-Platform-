@@ -13,7 +13,7 @@
 ---
 
 ## GCP Hierarchy
-
+![GCP-H](https://github.com/Prudhvi5442/GCP-Google-Cloud-Platform-/blob/baf0dd2046d48ef4511361443976684c7fd6c2ad/images/470928412-c1d9b947-bf12-4b30-9df6-df3491dc01a8.png)
 ## Understanding GCP Projects
 
 In GCP, everything you create (VMs, buckets, databases, etc.) lives inside a **project**.
