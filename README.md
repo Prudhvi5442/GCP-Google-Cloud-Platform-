@@ -16,3 +16,11 @@
 - Enabling essential APIs (Compute, Storage, etc.)
 
 ---
+## Day-3: IAM – Roles, Permissions, and Best Practices
+
+- GCP IAM basics – who can access what?
+- Roles: Basic, Predefined, Custom
+- Use-case: Give limited access to a junior teammate
+- Principle of least privilege and real-world security tips
+
+---
