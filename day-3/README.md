@@ -108,3 +108,10 @@ Your Cloud Build pipeline should deploy to GKE but NOT delete clusters.
 - **Always enforce least privilege and audit regularly.**
 
 ---
+## GCP CONSOL 
+
+![user](https://github.com/Prudhvi5442/GCP-Google-Cloud-Platform-/blob/f8d38c3699d1abb00b390c13f028288b62511eff/images/Screenshot%202025-10-08%20125018.png)
+
+![user](https://github.com/Prudhvi5442/GCP-Google-Cloud-Platform-/blob/f8d38c3699d1abb00b390c13f028288b62511eff/images/Screenshot%202025-10-08%20125054.png)
+
+![role](https://github.com/Prudhvi5442/GCP-Google-Cloud-Platform-/blob/f8d38c3699d1abb00b390c13f028288b62511eff/images/Screenshot%202025-10-08%20125215.png)
