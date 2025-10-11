@@ -24,3 +24,11 @@
 - Principle of least privilege and real-world security tips
 
 ---
+## Day-4: Compute Engine – VMs, SSH, Types of Compute, Region, Zone and much more
+
+- Launch VMs, connect via SSH
+- Install packages via startup scripts
+- Create and use custom images
+- Enable firewall rules for external access
+
+---
