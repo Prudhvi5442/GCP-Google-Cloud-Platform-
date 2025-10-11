@@ -126,4 +126,9 @@ To test:
 - DevOps Engineers should automate VM creation using CLI or Terraform.
 
 ---
+## Hands On
+![vm creation](https://github.com/Prudhvi5442/GCP-Google-Cloud-Platform-/blob/057fb0b58e9ffcc61f476fea12fb8629b7d2df47/images/Screenshot%202025-10-11%20121007.png)
 
+![nginx installation](https://github.com/Prudhvi5442/GCP-Google-Cloud-Platform-/blob/057fb0b58e9ffcc61f476fea12fb8629b7d2df47/images/Screenshot%202025-10-11%20121622.png)
+
+![nginx](https://github.com/Prudhvi5442/GCP-Google-Cloud-Platform-/blob/057fb0b58e9ffcc61f476fea12fb8629b7d2df47/images/Screenshot%202025-10-11%20121650.png)
